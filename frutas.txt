@@ -1,0 +1,8 @@
+manzana
+banana
+cereza
+uva
+naranja
+durazno
+piña
+mango
